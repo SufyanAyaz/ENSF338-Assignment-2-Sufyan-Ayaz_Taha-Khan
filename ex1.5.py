@@ -1,3 +1,6 @@
+# ENSF 338 Assignment 2
+# Sufyan Ayaz (30142184) amd Taha Khan (30145085)
+
 import timeit
 import matplotlib.pyplot as plt
 
